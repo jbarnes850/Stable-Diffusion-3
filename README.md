@@ -1,9 +1,3 @@
----
-title: stable-diffusion-3
-app_file: SD3.py
-sdk: gradio
-sdk_version: 4.26.0
----
 # Stable Diffusion 3 Text-to-Image Generator
 
 This is a Python application that utilizes the Stable Diffusion 3 model to generate images from textual prompts. It provides a user-friendly interface built with Gradio, allowing users to enter a prompt, select a model, and choose an aspect ratio to generate an image.
